@@ -230,14 +230,6 @@ dbt test
 - **Redshift Query Monitoring**: Analyze query performance
 - **dbt Documentation**: Auto-generated model documentation
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
 ## 📝 License
 
 This project is part of a data engineering capstone project and is for educational purposes.
@@ -250,5 +242,6 @@ This project is part of a data engineering capstone project and is for education
 - Apache Superset for visualization
 
 ---
+
 
 **Note**: This project demonstrates advanced data engineering concepts and should be used as a learning resource. Sensitive information has been removed and replaced with placeholders for security. 
