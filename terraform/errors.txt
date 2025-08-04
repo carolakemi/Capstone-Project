@@ -1,0 +1,7 @@
+
+Error: reading IAM Role (de-c4w4a2-load-role): couldn't find resource
+
+  with module.serving.data.aws_iam_role.redshift_spectrum_role,
+  on modules/serving/iam.tf line 1, in data "aws_iam_role" "redshift_spectrum_role":
+   1: data "aws_iam_role" "redshift_spectrum_role" {
+
